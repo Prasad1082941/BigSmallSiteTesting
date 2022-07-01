@@ -1,0 +1,55 @@
+ | INF | Selecting feature file "CheckFunctionalityOfAllOfIt" to run 
+ | INF | Selecting scenario "check Functionality of All Of It" to run 
+ | INF | Selecting feature file "CheckingSearchFunctionality" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | INF | Selecting feature file "CorporatFunction" to run 
+ | INF | Selecting scenario "TO fill Coporate deatils" to run 
+ | INF | Selecting feature file "CheckFunctionalityOfAllOfIt" to run 
+ | INF | Selecting scenario "check Functionality of All Of It" to run 
+ | ERR | Test Step Failed | unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.66) 
+ | INF | Selecting feature file "CheckingSearchFunctionality" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | INF | Selecting feature file "CorporatFunction" to run 
+ | INF | Selecting scenario "TO fill Coporate deatils" to run 
+ | ERR | Test Step Failed | unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.66) 
+ | INF | Selecting feature file "GiftSite" to run 
+ | INF | Selecting scenario "To Add the Gift card" to run 
+ | ERR | Test Step Failed | unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.66) 
+ | INF | Selecting feature file "CheckFunctionalityOfAllOfIt" to run 
+ | INF | Selecting scenario "check Functionality of All Of It" to run 
+ | INF | Selecting feature file "CheckFunctionalityOfAllOfIt" to run 
+ | INF | Selecting scenario "check Functionality of All Of It" to run 
+ | INF | Selecting feature file "CheckingSearchFunctionality" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | ERR | Test Step Failed | unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.66) 
+ | INF | Selecting feature file "CorporatFunction" to run 
+ | INF | Selecting scenario "TO fill Coporate deatils" to run 
+ | ERR | Test Step Failed | element click intercepted: Element <a href="/collections/corporate-gifts" data-dropdown-rel="corporate" class="site-nav__link">...</a> is not clickable at point (306, 117). Other element would receive the click: <div class="po-hint-screen">...</div>
+  (Session info: chrome=103.0.5060.66) 
+ | INF | Selecting feature file "GiftSite" to run 
+ | INF | Selecting scenario "To Add the Gift card" to run 
+ | INF | Selecting feature file "CheckFunctionalityOfAllOfIt" to run 
+ | INF | Selecting scenario "check Functionality of All Of It" to run 
+ | INF | Selecting feature file "CheckingSearchFunctionality" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | INF | Selecting scenario "Checking Search Functionality is working or not" to run 
+ | INF | Selecting feature file "CorporatFunction" to run 
+ | INF | Selecting scenario "TO fill Coporate deatils" to run 
+ | ERR | Test Step Failed | unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.66) 
+ | INF | Selecting feature file "GiftSite" to run 
+ | INF | Selecting scenario "To Add the Gift card" to run 
